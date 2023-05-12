@@ -1,0 +1,44 @@
+﻿@model TeachImageWebsite.Models.Ingredient
+
+@{
+    ViewBag.Title = "CreateIngredient";
+}
+@using (Html.BeginForm("CreateIngredient","Recipe",FormMethod.Post))
+{
+    
+    @Html.AntiForgeryToken()
+    <h2>CreateIngredient</h2>
+    <div class="form-group">
+        @Html.LabelFor(model => model.iName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.iName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.iName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.iNum, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.iNum, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.iNum, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.iUnit, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.iUnit, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.iUnit, "", new { @class = "text-danger" })
+        </div>
+
+
+    </div>
+<div class="session">
+        <input type="text" name="aId" value="@Session["recipe_id"]" readonly="readonly" />
+        @Html.ValidationMessageFor(model => model.aId, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="下一步" class="btn" />
+        </div>
+    </div>
+}
+

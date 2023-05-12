@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projectsqlModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="aRecipe">
+    <Key>
+      <PropertyRef Name="aId" />
+    </Key>
+    <Property Name="aId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="aName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="classId" Type="Int32" Nullable="false" />
+    <Property Name="aIntroduce" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="aImg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="aQuantity" Type="Int32" Nullable="false" />
+    <Property Name="aTime" Type="Int32" Nullable="false" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="cMember">
+    <Key>
+      <PropertyRef Name="cId" />
+    </Key>
+    <Property Name="cId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cPwd" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cPhoto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="CollectionRecipe">
+    <Key>
+      <PropertyRef Name="colId" />
+    </Key>
+    <Property Name="colId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="aId" Type="Int32" Nullable="false" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DraftClass">
+    <Key>
+      <PropertyRef Name="abclassId" />
+    </Key>
+    <Property Name="abclassId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="abclassName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="abclassNameD" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DraftIngredient">
+    <Key>
+      <PropertyRef Name="abiId" />
+    </Key>
+    <Property Name="abiId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="abiName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="abiNum" Type="Int32" />
+    <Property Name="abiUnit" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="abId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DraftRecipes">
+    <Key>
+      <PropertyRef Name="abId" />
+    </Key>
+    <Property Name="abId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="abName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="abclassId" Type="Int32" />
+    <Property Name="abIntroduce" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="abImg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="abQuantity" Type="Int32" />
+    <Property Name="abTime" Type="Int32" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DraftSteps">
+    <Key>
+      <PropertyRef Name="absId" />
+    </Key>
+    <Property Name="absId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="absContent" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="abId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GoodRecipe">
+    <Key>
+      <PropertyRef Name="gId" />
+    </Key>
+    <Property Name="gId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="aId" Type="Int32" Nullable="false" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ingredient">
+    <Key>
+      <PropertyRef Name="iId" />
+    </Key>
+    <Property Name="iId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="iName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="iNum" Type="Double" Nullable="false" />
+    <Property Name="iUnit" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="aId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MessageRecipe">
+    <Key>
+      <PropertyRef Name="mId" />
+    </Key>
+    <Property Name="mId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="mCon" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="aId" Type="Int32" Nullable="false" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RClass">
+    <Key>
+      <PropertyRef Name="classId" />
+    </Key>
+    <Property Name="classId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="className" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="classNameD" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Steps">
+    <Key>
+      <PropertyRef Name="sId" />
+    </Key>
+    <Property Name="sId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="sContent" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="aId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Blacklist">
+    <Key>
+      <PropertyRef Name="bId" />
+      <PropertyRef Name="cId" />
+    </Key>
+    <Property Name="bId" Type="Int32" Nullable="false" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FollowMember">
+    <Key>
+      <PropertyRef Name="followId" />
+      <PropertyRef Name="cId" />
+      <PropertyRef Name="follower" />
+    </Key>
+    <Property Name="followId" Type="Int32" Nullable="false" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+    <Property Name="follower" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Planning">
+    <Key>
+      <PropertyRef Name="pId" />
+      <PropertyRef Name="aName" />
+      <PropertyRef Name="pQuantity" />
+      <PropertyRef Name="pTimeA" />
+      <PropertyRef Name="pTimeB" />
+      <PropertyRef Name="cId" />
+      <PropertyRef Name="aId" />
+    </Key>
+    <Property Name="pId" Type="Int32" Nullable="false" />
+    <Property Name="aName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="pQuantity" Type="Int32" Nullable="false" />
+    <Property Name="pTimeA" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="pTimeB" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+    <Property Name="aId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PlanningIngredient">
+    <Key>
+      <PropertyRef Name="piId" />
+      <PropertyRef Name="piName" />
+      <PropertyRef Name="piNum" />
+      <PropertyRef Name="piUnit" />
+      <PropertyRef Name="pId" />
+    </Key>
+    <Property Name="piId" Type="Int32" Nullable="false" />
+    <Property Name="piName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="piNum" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="piUnit" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="pId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ReportMessage">
+    <Key>
+      <PropertyRef Name="rmId" />
+      <PropertyRef Name="rmName" />
+      <PropertyRef Name="cId" />
+      <PropertyRef Name="rmcIdB" />
+      <PropertyRef Name="mId" />
+    </Key>
+    <Property Name="rmId" Type="Int32" Nullable="false" />
+    <Property Name="rmName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+    <Property Name="rmcIdB" Type="Int32" Nullable="false" />
+    <Property Name="mId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ReportRecipe">
+    <Key>
+      <PropertyRef Name="rrId" />
+      <PropertyRef Name="rrName" />
+      <PropertyRef Name="cId" />
+      <PropertyRef Name="rrcIdB" />
+      <PropertyRef Name="aId" />
+    </Key>
+    <Property Name="rrId" Type="Int32" Nullable="false" />
+    <Property Name="rrName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cId" Type="Int32" Nullable="false" />
+    <Property Name="rrcIdB" Type="Int32" Nullable="false" />
+    <Property Name="aId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="projectsqlEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="aRecipe" EntityType="Self.aRecipe" />
+    <EntitySet Name="cMember" EntityType="Self.cMember" />
+    <EntitySet Name="CollectionRecipe" EntityType="Self.CollectionRecipe" />
+    <EntitySet Name="DraftClass" EntityType="Self.DraftClass" />
+    <EntitySet Name="DraftIngredient" EntityType="Self.DraftIngredient" />
+    <EntitySet Name="DraftRecipes" EntityType="Self.DraftRecipes" />
+    <EntitySet Name="DraftSteps" EntityType="Self.DraftSteps" />
+    <EntitySet Name="GoodRecipe" EntityType="Self.GoodRecipe" />
+    <EntitySet Name="Ingredient" EntityType="Self.Ingredient" />
+    <EntitySet Name="MessageRecipe" EntityType="Self.MessageRecipe" />
+    <EntitySet Name="RClass" EntityType="Self.RClass" />
+    <EntitySet Name="Steps" EntityType="Self.Steps" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Blacklist" EntityType="Self.Blacklist" />
+    <EntitySet Name="FollowMember" EntityType="Self.FollowMember" />
+    <EntitySet Name="Planning" EntityType="Self.Planning" />
+    <EntitySet Name="PlanningIngredient" EntityType="Self.PlanningIngredient" />
+    <EntitySet Name="ReportMessage" EntityType="Self.ReportMessage" />
+    <EntitySet Name="ReportRecipe" EntityType="Self.ReportRecipe" />
+  </EntityContainer>
+</Schema>

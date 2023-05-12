@@ -1,0 +1,349 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Reicpe</title>
+    <style>
+        body {
+            background: url(../images/bg-body.jpg) repeat;
+        }
+
+        .recipe-title {
+            margin: 0 0 14px;
+            font-size: 1.4rem;
+            line-height: 36px;
+            text-align: center;
+            margin-top: 25px;
+        }
+
+        .author-photo img {
+            border-radius: 30px;
+            width: 35%;
+            padding: 0px
+        }
+
+        .button {
+            padding: 8px 8px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .button2 {
+            border-radius: 50%;
+        }
+
+        .shadowbox {
+            width: 50em;
+            border: 1px solid #333;
+            box-shadow: 8px 8px 14px #444;
+            padding: 8px 50px;
+            background: #f0ece3;
+            border-radius:5px;
+        }
+
+        .parent {
+            display: flex;
+            /* 水平置中 */
+            justify-content: center;
+            /* 垂直置中 */
+            align-content: center;
+            flex-wrap: wrap;
+        }
+
+        .recipe-details-info {
+            display: flex;
+            align-items: center;
+        }
+
+        .recipe-details-block.recipe-details-info {
+            margin-bottom: 0;
+            padding: 0;
+            border-bottom: 1px solid #cecac1;
+        }
+
+        .info-tag {
+            margin: 0 0 4px;
+            font-size: 1.0rem;
+            font-weight: 400;
+            text-align: center;
+        }
+
+        .info-block {
+            display: flex;
+            flex: 1 1 33.3333333333%;
+            justify-content: center;
+            align-items: center;
+            margin: 5px 0;
+            border-right: 1px solid #cecac1;
+            flex-direction: column;
+        }
+
+        .info-block1 {
+            display: flex;
+            flex: 1 1 33.3333333333%;
+            justify-content: center;
+            align-items: center;
+            margin: 5px 0;
+            flex-direction: column;
+        }
+
+        .group.group-0 {
+            border-top: 1px solid #564e4a;
+            margin-top: 10px;
+        }
+
+        .ingredients {
+            display: flex;
+            justify-content: space-between;
+            padding: 0 10px 10px;
+            flex-wrap: wrap;
+        }
+
+        .ingredient {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            padding: 10px 0;
+            color: #564e4a;
+        }
+
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        #parent li {
+            list-style: none;
+        }
+
+        #parent {
+            width: 600px;
+            margin: 0 auto;
+        }
+
+        h4 {
+            line-height: 50px;
+            margin-bottom: 1px;
+            color: #FF3300
+        }
+
+        a {
+            color: #333;
+            text-decoration: 0;
+        }
+
+        p {
+            width: 100%;
+            background: #f1f1f1;
+            position: relative;
+            margin-bottom: 25px;
+        }
+
+        #box {
+            width: 380px;
+            padding: 25px 10px 0;
+            border: 1px solid #ddd;
+            margin-bottom: 10px;
+        }
+
+        #parent span {
+            position: absolute;
+            top: -20px;
+            right: 0px;
+        }
+
+        em {
+            position: relative;
+            top: -13px;
+        }
+
+        #text {
+            width: 66.5%;
+            height: 45px;
+            overflow: auto;
+        }
+
+        #btn {
+            width: 12%;
+            height: 25px;
+        }
+    </style>
+    <script>
+        i = 1;
+        function fnsubmit() {
+            var odiv = document.getElementById("box");
+            var oem = odiv.getElementsByTagName("em")[0];
+            var otext = document.getElementById("text");
+            var oli = odiv.getElementsByTagName("li");
+            var add_li = document.createElement("li");
+            var o_span = document.createElement("span");
+            if (otext.value == "") {
+                alert("请填写留言内容！");
+                return;
+            }
+            oem.style.display = "none";
+            o_span.style.position = "absolute";
+            o_span.style.top = "-20px";
+            o_span.style.right = "20px";
+            o_span.style.background = "#cccccc";
+            add_li.style.position = "relative";
+            add_li.index = i;
+            add_li.style.background = "#cccccc";
+            add_li.style.marginBottom = "20px";
+            var str = document.createTextNode(i + "、" + otext.value);
+            var strspan = document.createTextNode("确定删除" + i + "、" + otext.value + "内容？");
+            add_li.appendChild(o_span);
+            o_span.style.display = "none";
+            o_span.appendChild(strspan);
+            add_li.appendChild(str);
+            odiv.appendChild(add_li);
+            i++;
+            for (j = 0; j < oli.length; j++) {
+                var m = j;
+                oli[j].onmouseover = function () {
+                    this.style.background = "#ffff00";
+                    (this.childNodes(o_span)).style.display = "block";
+                };
+                oli[j].onmouseout = function () {
+                    this.style.background = "#cccccc";
+                    (this.childNodes(o_span)).style.display = "none";
+                };
+                oli[j].onclick = function () {
+                    m--;
+                    odiv.removeChild(this);
+                    if (m < 0) {
+                        oem.style.display = "block";
+                    };
+                };
+            };
+        }
+    </script>
+</head>
+<body>
+    <br /><br /><br /><br />
+    <div class="parent">
+        <div class="shadowbox">
+            <div class="recipe-title">
+                <h2 style="font-size: 35px;">輕乳酪蛋糕 <br /> COTTON CHEESECAKE</h2>
+            </div>
+            <div class="author-photo" style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
+                <img src="~/images/不萊恩-頭貼.png" />
+                <div style="padding:10px;">
+                    <span style="font-size: 20px;">布萊恩|BRIAN  </span>
+                    <input type="button"  value="關注">
+                </div>
+            </div><br />
+            <div style="padding: 10px 0; color: #564e4a;">
+                <span>這份食譜出爐的蛋糕體從內而外一致漂亮的淡鵝黃色，質地與口感濕潤卻又保有輕盈，採用英文名Cotton Cheesecake（棉花起司蛋糕）一點也不為過。</span>
+            </div>
+            <div>
+                <img src="~/images/蛋糕照片.png" width="400" style="border-radius: 5px; display:flex" />
+            </div>
+
+            <div>
+                <button class="button button2">愛心</button>
+                <button class="button button2">收藏</button>
+                <button class="button button2">留言</button>
+            </div><br />
+            <div class="recipe-details-info recipe-details-block">
+                <div class="servings-info info-block">
+                    <h2 class="info-tag">份量</h2>
+                    <div class="info-content">
+                        <div class="servings">
+                            <span class="num">4</span>
+                            <span class="unit">人份</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="time-info info-block1">
+                    <h2 class="info-tag">時間</h2>
+                    <div class="info-content">
+                        <span class="num">70</span>
+                        <span class="unit">分鐘</span>
+                    </div>
+                </div>
+            </div><br />
+            <div class="recipe-details-ingredients recipe-details-block">
+                <h2 style=" font-size: 18px; ">食材</h2>
+                <div class="ingredients-groups">
+                    <div class="group group-0">
+                        <ul class="ingredients">
+                            <li class="ingredient">
+                                <div class="ingredient-name">
+                                    <a class="ingredient-search">奶油乳酪</a>
+                                </div>
+                                <div class="ingredient-unit">250g</div>
+                            </li>
+                            <li class="ingredient">
+                                <div class="ingredient-name">
+                                    <a class="ingredient-search" data-track-id="recipe-ingredient" data-name="牛奶">牛奶</a>
+                                </div>
+                                <div class="ingredient-unit">220g</div>
+                            </li>
+                            <li class="ingredient">
+                                <div class="ingredient-name">
+                                    <a class="ingredient-search" data-track-id="recipe-ingredient" data-name="雞蛋">雞蛋</a>
+                                </div>
+                                <div class="ingredient-unit">4顆</div>
+                            </li>
+                            <li class="ingredient">
+                                <div class="ingredient-name">
+                                    <a class="ingredient-search" data-track-id="recipe-ingredient" data-name="細砂糖">細砂糖</a>
+                                </div>
+                                <div class="ingredient-unit">120g</div>
+                            </li>
+                            <li class="ingredient">
+                                <div class="ingredient-name">
+                                    <a class="ingredient-search" data-track-id="recipe-ingredient" data-name="玉米粉">玉米粉</a>
+                                </div>
+                                <div class="ingredient-unit">20g</div>
+                            </li>
+                            <li class="ingredient">
+                                <div class="ingredient-name">
+                                    <a class="ingredient-search" data-track-id="recipe-ingredient" data-name="低筋麵粉">低筋麵粉</a>
+                                </div>
+                                <div class="ingredient-unit">45g</div>
+                            </li>
+                            <li class="ingredient">
+                                <div class="ingredient-name">
+                                    <a class="ingredient-search" data-track-id="recipe-ingredient" data-name="無鹽奶油">無鹽奶油</a>
+                                </div>
+                                <div class="ingredient-unit">55g</div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="recipe-details-ingredients recipe-details-block">
+                <h2 style=" font-size: 18px; ">步驟</h2>
+                <div class="ingredients-groups">
+                    <div class="group group-0">
+                        <ol class="ingredients">
+                            <li class="ingredient">1.模子鋪烤盤紙</li>
+                            <li class="ingredient">2.奶油乳酪、牛奶、奶油隔水加熱</li>
+                            <li class="ingredient">3.加入麵粉、玉米粉</li>
+                            <li class="ingredient">4.加入蛋黃拌勻</li>
+                            <li class="ingredient">5.將蛋白加入細砂糖打發，再加入打發蛋白</li>
+                            <li class="ingredient">6.倒入模子中，鋁箔紙包起來</li>
+                            <li class="ingredient">7.隔水蒸烤150度1小時</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <div id="parent">
+                <h4>留言内容：</h4>
+                <div id="box"><em>這裡會顯示留言內容……</em></div>
+                <input type="text" id="text"><br />
+                <input id="btn" type="button" onclick="fnsubmit()" value="發表留言" />
+            </div>
+            <br />
+        </div>
+
+    </div>
+    <br />
+</body>
+</html>

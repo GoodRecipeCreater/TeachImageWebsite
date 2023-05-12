@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="projectsqlModelStoreContainer" CdmEntityContainer="projectsqlEntities1">
+    <EntitySetMapping Name="aRecipe">
+      <EntityTypeMapping TypeName="projectsqlModel.aRecipe">
+        <MappingFragment StoreEntitySet="aRecipe">
+          <ScalarProperty Name="aId" ColumnName="aId" />
+          <ScalarProperty Name="aName" ColumnName="aName" />
+          <ScalarProperty Name="classId" ColumnName="classId" />
+          <ScalarProperty Name="aIntroduce" ColumnName="aIntroduce" />
+          <ScalarProperty Name="aImg" ColumnName="aImg" />
+          <ScalarProperty Name="aQuantity" ColumnName="aQuantity" />
+          <ScalarProperty Name="aTime" ColumnName="aTime" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cMember">
+      <EntityTypeMapping TypeName="projectsqlModel.cMember">
+        <MappingFragment StoreEntitySet="cMember">
+          <ScalarProperty Name="cId" ColumnName="cId" />
+          <ScalarProperty Name="cName" ColumnName="cName" />
+          <ScalarProperty Name="cEmail" ColumnName="cEmail" />
+          <ScalarProperty Name="cPwd" ColumnName="cPwd" />
+          <ScalarProperty Name="cPhoto" ColumnName="cPhoto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CollectionRecipe">
+      <EntityTypeMapping TypeName="projectsqlModel.CollectionRecipe">
+        <MappingFragment StoreEntitySet="CollectionRecipe">
+          <ScalarProperty Name="colId" ColumnName="colId" />
+          <ScalarProperty Name="aId" ColumnName="aId" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DraftClass">
+      <EntityTypeMapping TypeName="projectsqlModel.DraftClass">
+        <MappingFragment StoreEntitySet="DraftClass">
+          <ScalarProperty Name="abclassId" ColumnName="abclassId" />
+          <ScalarProperty Name="abclassName" ColumnName="abclassName" />
+          <ScalarProperty Name="abclassNameD" ColumnName="abclassNameD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DraftIngredient">
+      <EntityTypeMapping TypeName="projectsqlModel.DraftIngredient">
+        <MappingFragment StoreEntitySet="DraftIngredient">
+          <ScalarProperty Name="abiId" ColumnName="abiId" />
+          <ScalarProperty Name="abiName" ColumnName="abiName" />
+          <ScalarProperty Name="abiNum" ColumnName="abiNum" />
+          <ScalarProperty Name="abiUnit" ColumnName="abiUnit" />
+          <ScalarProperty Name="abId" ColumnName="abId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DraftRecipes">
+      <EntityTypeMapping TypeName="projectsqlModel.DraftRecipes">
+        <MappingFragment StoreEntitySet="DraftRecipes">
+          <ScalarProperty Name="abId" ColumnName="abId" />
+          <ScalarProperty Name="abName" ColumnName="abName" />
+          <ScalarProperty Name="abclassId" ColumnName="abclassId" />
+          <ScalarProperty Name="abIntroduce" ColumnName="abIntroduce" />
+          <ScalarProperty Name="abImg" ColumnName="abImg" />
+          <ScalarProperty Name="abQuantity" ColumnName="abQuantity" />
+          <ScalarProperty Name="abTime" ColumnName="abTime" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DraftSteps">
+      <EntityTypeMapping TypeName="projectsqlModel.DraftSteps">
+        <MappingFragment StoreEntitySet="DraftSteps">
+          <ScalarProperty Name="absId" ColumnName="absId" />
+          <ScalarProperty Name="absContent" ColumnName="absContent" />
+          <ScalarProperty Name="abId" ColumnName="abId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GoodRecipe">
+      <EntityTypeMapping TypeName="projectsqlModel.GoodRecipe">
+        <MappingFragment StoreEntitySet="GoodRecipe">
+          <ScalarProperty Name="gId" ColumnName="gId" />
+          <ScalarProperty Name="aId" ColumnName="aId" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ingredient">
+      <EntityTypeMapping TypeName="projectsqlModel.Ingredient">
+        <MappingFragment StoreEntitySet="Ingredient">
+          <ScalarProperty Name="iId" ColumnName="iId" />
+          <ScalarProperty Name="iName" ColumnName="iName" />
+          <ScalarProperty Name="iNum" ColumnName="iNum" />
+          <ScalarProperty Name="iUnit" ColumnName="iUnit" />
+          <ScalarProperty Name="aId" ColumnName="aId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MessageRecipe">
+      <EntityTypeMapping TypeName="projectsqlModel.MessageRecipe">
+        <MappingFragment StoreEntitySet="MessageRecipe">
+          <ScalarProperty Name="mId" ColumnName="mId" />
+          <ScalarProperty Name="mCon" ColumnName="mCon" />
+          <ScalarProperty Name="aId" ColumnName="aId" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RClass">
+      <EntityTypeMapping TypeName="projectsqlModel.RClass">
+        <MappingFragment StoreEntitySet="RClass">
+          <ScalarProperty Name="classId" ColumnName="classId" />
+          <ScalarProperty Name="className" ColumnName="className" />
+          <ScalarProperty Name="classNameD" ColumnName="classNameD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Steps">
+      <EntityTypeMapping TypeName="projectsqlModel.Steps">
+        <MappingFragment StoreEntitySet="Steps">
+          <ScalarProperty Name="sId" ColumnName="sId" />
+          <ScalarProperty Name="sContent" ColumnName="sContent" />
+          <ScalarProperty Name="aId" ColumnName="aId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="projectsqlModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Blacklist">
+      <EntityTypeMapping TypeName="projectsqlModel.Blacklist">
+        <MappingFragment StoreEntitySet="Blacklist">
+          <ScalarProperty Name="bId" ColumnName="bId" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FollowMember">
+      <EntityTypeMapping TypeName="projectsqlModel.FollowMember">
+        <MappingFragment StoreEntitySet="FollowMember">
+          <ScalarProperty Name="followId" ColumnName="followId" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+          <ScalarProperty Name="follower" ColumnName="follower" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Planning">
+      <EntityTypeMapping TypeName="projectsqlModel.Planning">
+        <MappingFragment StoreEntitySet="Planning">
+          <ScalarProperty Name="pId" ColumnName="pId" />
+          <ScalarProperty Name="aName" ColumnName="aName" />
+          <ScalarProperty Name="pQuantity" ColumnName="pQuantity" />
+          <ScalarProperty Name="pTimeA" ColumnName="pTimeA" />
+          <ScalarProperty Name="pTimeB" ColumnName="pTimeB" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+          <ScalarProperty Name="aId" ColumnName="aId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PlanningIngredient">
+      <EntityTypeMapping TypeName="projectsqlModel.PlanningIngredient">
+        <MappingFragment StoreEntitySet="PlanningIngredient">
+          <ScalarProperty Name="piId" ColumnName="piId" />
+          <ScalarProperty Name="piName" ColumnName="piName" />
+          <ScalarProperty Name="piNum" ColumnName="piNum" />
+          <ScalarProperty Name="piUnit" ColumnName="piUnit" />
+          <ScalarProperty Name="pId" ColumnName="pId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReportMessage">
+      <EntityTypeMapping TypeName="projectsqlModel.ReportMessage">
+        <MappingFragment StoreEntitySet="ReportMessage">
+          <ScalarProperty Name="rmId" ColumnName="rmId" />
+          <ScalarProperty Name="rmName" ColumnName="rmName" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+          <ScalarProperty Name="rmcIdB" ColumnName="rmcIdB" />
+          <ScalarProperty Name="mId" ColumnName="mId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReportRecipe">
+      <EntityTypeMapping TypeName="projectsqlModel.ReportRecipe">
+        <MappingFragment StoreEntitySet="ReportRecipe">
+          <ScalarProperty Name="rrId" ColumnName="rrId" />
+          <ScalarProperty Name="rrName" ColumnName="rrName" />
+          <ScalarProperty Name="cId" ColumnName="cId" />
+          <ScalarProperty Name="rrcIdB" ColumnName="rrcIdB" />
+          <ScalarProperty Name="aId" ColumnName="aId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

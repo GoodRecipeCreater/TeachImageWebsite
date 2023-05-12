@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Login V4</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="~/images/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/login/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/fonts/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/login/material-design-iconic-font.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/login/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/login/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/login/animsition.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/login/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/login/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/login/util.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/login/main.css">
+    <!--===============================================================================================-->
+    <script src="https://kit.fontawesome.com/5eb662c80d.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <br /><br /><br /><br />
+    <div class="limiter">
+        <div class="container-login100" style="background: #364150;">
+            <div class="wrap-login100 p-l-55 p-r-55 p-t-65 p-b-54">
+                <form class="login100-form validate-form" method="post" action="@Url.Action("Login")">
+                    <span class="login100-form-title p-b-49">
+                        登入
+                    </span>
+                    <div class="wrap-input100 validate-input m-b-23" data-validate="Username is reauired">
+                        <span class="label-input100">信箱</span>
+                        <input class="input100" type="text" id="cEmail" name="cEmail" placeholder="輸入您的信箱">
+                        <span class="focus-input100" data-symbol=""></span>
+                    </div>
+
+                    <div class="wrap-input100 validate-input" data-validate="Password is required">
+                        <span class="label-input100">密碼</span>
+                        <input class="input100" type="password" id="cPwd" name="cPwd" placeholder="輸入您的密碼">
+                        <span class="focus-input100" data-symbol=""></span>
+                    </div>
+
+                    <div class="text-right p-t-8 p-b-31">
+                        <a href="#">
+                            忘記密碼?
+                        </a>
+                    </div>
+
+                    <div class="container-login100-form-btn">
+                        <div class="wrap-login100-form-btn">
+                            <div class="login100-form-bgbtn"></div>
+                            <button class="login100-form-btn" value="登入">
+                                登入
+                            </button>
+                        </div>
+                    </div>
+                    @ViewBag.Message
+
+                <div class="txt1 text-center p-t-54 p-b-20">
+                    @Html.ActionLink("或 註冊", "Register")
+                </div>
+
+                    <div class="flex-c-m">
+                        <a href="#" class="login100-social-item bg1">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+
+                        <a href="#" class="login100-social-item bg2">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+
+                        <a href="#" class="login100-social-item bg3">
+                            <i class="fa fa-google"></i>
+                        </a>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="dropDownSelect1"></div>
+
+    <!--===============================================================================================-->
+    <script src="~/Scripts/login/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Scripts/login/animsition.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Scripts/login/popper.js"></script>
+    <script src="~/Scripts/login/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Scripts/login/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Scripts/login/moment.min.js"></script>
+    <script src="~/Scripts/login/daterangepicker.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Scripts/login/countdowntime.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Scripts/login/main.js"></script>
+
+</body>
+</html>
