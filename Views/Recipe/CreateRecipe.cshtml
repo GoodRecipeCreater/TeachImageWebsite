@@ -1,0 +1,192 @@
+﻿@model TeachImageWebsite.Models.aRecipe
+
+@{
+    ViewBag.Title = "CreateRecipe";
+}
+@{
+    Layout = "~/Views/Shared/_LayoutMember.cshtml";
+}}
+@*@{
+    Response.Write("Session的所有值:<br />");
+    foreach (string obj in Session.Contents)        
+    {
+        Response.Write(obj.ToString() + ":" + Session["member_id"] + "<br />");
+    }
+}*@
+<h2>CreateRecipe</h2>
+
+@using (Html.BeginForm("CreateRecipe", "Recipe", FormMethod.Post, new { enctype = "multipart/form-data"}))
+{
+                @Html.AntiForgeryToken()
+<br/>
+<div class="form-horizontal" style="padding: 14px 60px;">
+    <h4>aRecipe</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.aName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.EditorFor(model => model.aName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.aName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <!--<div class="form-group">
+            @Html.LabelFor(model => model.classId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @foreach(var item in ViewBag.className)
+                {
+                    <option value="@item.classId">@item.className</option>
+                }-->
+    @*@Html.EditorFor(model => model.classId, new { htmlAttributes = new { @class = "form-control" } })*@
+    <!--@Html.ValidationMessageFor(model => model.classId, "", new { @class = "text-danger" })
+        </div>
+    </div>-->
+    <div class="form-group">
+        @Html.LabelFor(model => model.classId, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DropDownListFor(model => model.classId, new SelectList(
+                new List<SelectListItem>
+                {
+                    new SelectListItem { Text = "全穀根莖", Value = "1" },
+                    new SelectListItem { Text = "水果", Value = "2" },
+                    new SelectListItem { Text = "蔬菜", Value = "3" },
+                    new SelectListItem { Text = "蛋豆魚肉類", Value = "4" },
+                    new SelectListItem { Text = "奶類", Value = "5" }
+                }, "Value", "Text"), "-- 請選擇 --", new { @class = "form-control", id = "classIdSelect" })
+            @Html.ValidationMessageFor(model => model.classId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.aIntroduce, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.EditorFor(model => model.aIntroduce, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.aIntroduce, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    @*<div class="form-group">
+        @Html.LabelFor(model => model.aImg, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.aImg, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.aImg, "", new { @class = "text-danger" })
+        </div>*@
+    
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.aQuantity, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.EditorFor(model => model.aQuantity, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.aQuantity, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.aTime, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.EditorFor(model => model.aTime, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.aTime, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    @*<div class="form-group">
+            @Html.LabelFor(model => model.cId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.cId, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.cId, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+    <div class="form-group control-label col-md-2">
+        <div class="recipeimg">
+            @Html.LabelFor(model => model.aImg)
+        </div>
+        <div class="menu-c">
+
+            <input type="file" name="file" accept="image/*" data-target="" />
+
+        </div>
+    </div>
+    <div class="session control-label col-md-2">
+        <input type="text" name="cId" value="@Session["member_id"]" readonly="readonly" />
+        @Html.ValidationMessageFor(model => model.cId, "", new { @class = "text-danger" })
+    </div>
+    <br />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="下一步" class="btn" />
+        </div>
+    </div>
+    <div class="control-label col-md-2">
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+</div>
+}
+
+
+<script>
+    $(document).ready(function () {
+        $("#classIdSelect").change(function () {
+            var selectedOption = $(this).val();
+            var subOptions = [];
+
+            switch (selectedOption) {
+                case "1": // 全穀根莖
+                    subOptions = [
+                        { Text: "米食", Value: "1" },
+                        { Text: "麵食", Value: "2" },
+                        { Text: "烘焙點心", Value: "3" },
+                        { Text: "根莖類蔬菜", Value: "4" },
+                        { Text: "五穀雜糧", Value = "5" }
+                    ];
+                    break;
+                case "2": // 水果
+                    subOptions = [
+                        { Text: "各式水果", Value: "1" },
+                        { Text: "果醬", Value: "2" }
+                    ];
+                    break;
+                case "3": // 蔬菜
+                    subOptions = [
+                        { Text: "當季", Value: "1" },
+                        { Text: "瓜果", Value: "2" },
+                        { Text: "葉菜", Value: "3" },
+                        { Text: "菇類", Value: "4" }
+                    ];
+                    break;
+                case "4": // 蛋豆魚肉類
+                    subOptions = [
+                        { Text: "雞", Value: "1" },
+                        { Text: "鴨", Value: "2" },
+                        { Text: "海鮮", Value: "3" },
+                        { Text: "肉", Value: "4" },
+                        { Text: "豬", Value: "5" },
+                        { Text: "鵝", Value: "6" },
+                        { Text: "牛", Value: "7" },
+                        { Text: "豆製品", Value: "8" }
+                    ];
+                    break;
+                case "5": // 奶類
+                    subOptions = [
+                        { Text: "起司料理", Value: "1" }
+                    ];
+                    break;
+                default:
+                    subOptions = [];
+                    break;
+            }
+
+            // 清空舊的子選項
+            $("#subOptionsSelect").empty();
+
+            // 建立新的子選項
+            if (subOptions.length > 0) {
+                $.each(subOptions, function (index, option) {
+                    $("#subOptionsSelect").append(
+                        $("<option>").text(option.Text).val(option.Value)
+                    );
+                });
+            }
+        });
+    });
+</script>

@@ -1,0 +1,92 @@
+﻿@model TeachImageWebsite.Models.ViewModel.RecipeViewModel
+@{
+    Layout = "~/Views/Shared/_LayoutMember.cshtml";
+}}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>蛋豆魚肉類-新手知識</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        hr {
+            border: none;
+            height: 1px;
+            background-color: #ddd;
+            margin-bottom: 20px;
+        }
+
+        ul#menu {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+            ul#menu li {
+                padding: 10px;
+                background-color: #f0f0f0;
+                border-bottom: 1px solid #ddd;
+                cursor: pointer;
+            }
+
+                ul#menu li:hover {
+                    background-color: #e0e0e0;
+                }
+
+        #content {
+            background-color: #f9f9f9;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2><strong>蛋豆魚肉類-新手知識</strong></h2>
+    <hr />
+    <ul id="menu">
+        <li id="保存方式">蛋豆魚肉類-食材保存方式</li>
+        <li id="熱量查詢">蛋豆魚肉類-食材熱量查詢</li>
+        <li id="營養成分">蛋豆魚肉類-食材營養成分</li>
+    </ul>
+
+    <div id="content" style="display: none;">
+        <h3 id="title"></h3>
+        <p id="info"></p>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#menu li').click(function () {
+                var menuItem = $(this).attr('id');
+                var title = "";
+                var info = "";
+
+                if (menuItem === '保存方式') {
+                    title = "食材保存方式";
+                    info = "這裡是食材保存方式的內容。";
+                } else if (menuItem === '熱量查詢') {
+                    title = "食材熱量查詢";
+                    info = "這裡是食材熱量查詢的內容。";
+                } else if (menuItem === '營養成分') {
+                    title = "食材營養成分";
+                    info = "這裡是食材營養成分的內容。";
+                }
+
+                $('#title').text(title);
+                $('#info').text(info);
+                $('#content').show();
+            });
+        });
+    </script>
+</body>
+</html>

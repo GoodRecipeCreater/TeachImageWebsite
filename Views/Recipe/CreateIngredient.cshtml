@@ -1,0 +1,79 @@
+﻿@model TeachImageWebsite.Models.Ingredient
+
+@{
+    ViewBag.Title = "CreateIngredient";
+}
+
+<style>
+    /*.col-md-2 {
+        text-align: center
+    }*/
+    /*.btn-custom {
+        background-color: gray;
+        color: black;
+    }*/
+</style>
+
+@using (Html.BeginForm("CreateIngredient", "Recipe", FormMethod.Post))
+{
+
+    @Html.AntiForgeryToken()
+    <h2>CreateIngredient</h2>
+    <br /><br /><br /><br />
+    <div style="padding: 15px 20px; margin: 0 auto; width: 1200px; ">
+    <div class="col-md-12 row" >
+        <div class="form-group col-md-4" >
+            @Html.LabelFor(model => model.iName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-12">
+                @Html.EditorFor(model => model.iName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.iName, "", new { @class = "text-danger" })
+            </div>
+                   
+        </div>
+        <div class="form-group col-md-4">
+                @Html.LabelFor(model => model.iNum, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-12">
+                    @Html.EditorFor(model => model.iNum, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.iNum, "", new { @class = "text-danger" })
+                </div>
+        </div>
+
+        <div class="form-group col-md-4">
+            @Html.LabelFor(model => model.iUnit, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-12">
+                @Html.DropDownListFor(model => model.iUnit, new SelectList(
+             new List<SelectListItem>
+             {
+                        new SelectListItem { Text = "克（g）", Value = "g" },
+                        new SelectListItem { Text = "千克（kg）", Value = "kg" },
+                        new SelectListItem { Text = "盎司（oz）", Value = "oz" },
+                        new SelectListItem { Text = "磅（lb）", Value = "lb" },
+                        new SelectListItem { Text = "毫升（ml）", Value = "ml" },
+                        new SelectListItem { Text = "公升（L）", Value = "L" },
+                        new SelectListItem { Text = "茶匙（tsp）", Value = "tsp" },
+                        new SelectListItem { Text = "湯匙（tbsp）", Value = "tbsp" },
+                        new SelectListItem { Text = "個", Value = "個" },
+                        new SelectListItem { Text = "只", Value = "只" },
+                        new SelectListItem { Text = "條", Value = "條" },
+                        new SelectListItem { Text = "瓣", Value = "瓣" },
+                        new SelectListItem { Text = "片", Value = "片" },
+                        new SelectListItem { Text = "隻", Value = "隻" }
+             }, "Value", "Text"), "-- 請選擇 --", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.iUnit, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group text-right">
+        <div class="col-md-offset-2 col-md-11">
+            @*@Html.ActionLink("上傳", "saveingredient")*@
+            <input type="button" value="上傳" class="btn " onclick="location.href='/RecipeController/saveingredient'">
+            <br /><br />
+            <input type="button" value="上一步" class="btn" onclick="history.back()" />
+            <input type="submit" value="下一步" class="btn" />
+
+        </div>
+    </div>
+    </div>
+    
+}

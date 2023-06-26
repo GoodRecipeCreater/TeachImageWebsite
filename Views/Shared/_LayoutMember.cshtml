@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>公司形象網站範例</title>
+
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="~/Content/style.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="~/Content/responsive.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/Content/custom.css">
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+    <!-- Start header -->
+    <header class="top-navbar">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">
+                    <img src="~/images/logo.eat.png" width="80" alt="" />
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-rs-food" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbars-rs-food">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active"><a class="nav-link" href="@Url.Action("Index", "Home")">主頁</a></li>
+                        <li class="nav-item"><a class="nav-link" href="@Url.Action("Menu", "Home")">菜單</a></li>
+                        @*<li class="nav-item"><a class="nav-link" href="@Url.Action("Menu2", "Home")">Menu2</a></li>*@
+                        <li class="nav-item"><a class="nav-link" href="@Url.Action("CreateRecipe", "Recipe")">新增食譜</a></li>
+
+                        <li class="nav-item"><a class="nav-link" href="@Url.Action("RecipeList", "Recipe")">查看已新增食譜</a></li>
+                        @*<li class="nav-item"><a class="nav-link" href="@Url.Action("About", "Home")">About</a></li>*@
+                        <li class="nav-item"><a class="nav-link" href="@Url.Action("Index", "Schedule")">計畫排定</a></li>
+                        <li class="nav-item"><a class="nav-link" href="@Url.Action("Rookie", "Recipe")">新手知識</a></li>
+                        @*<li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">頁數</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown-a">
+                                <a class="dropdown-item" href="@Url.Action("Reservation", "Home")">預訂</a>
+                                <a class="dropdown-item" href="@Url.Action("Stuff", "Home")">介紹</a>
+                                <a class="dropdown-item" href="@Url.Action("Gallery", "Home")">畫廊</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">部落格</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown-a">
+                                <a class="dropdown-item" href="@Url.Action("Blog", "Home")">部落格</a>
+                                <a class="dropdown-item" href="@Url.Action("Blog_Single", "Home")">blog Single</a>
+                            </div>
+                        </li>*@
+                        @*<li class="nav-item"><a class="nav-link" href="@Url.Action("Contact",  "Home")">Contact</a></li>*@
+                        <li class="nav-item"><a class="nav-link" href="@Url.Action("Login",  "Home")">登出</a></li>
+                        <li>@Session["Welcome"]</li> <!-- 將 Session 值插入選單 -->
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- End header -->
+
+
+    @RenderBody()
+
+    <!-- Start Footer -->
+    <footer class="footer-area bg-f">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <h3>關於我們</h3>
+                    <p><a href="#"> 聯絡我們 </a></p>
+                    <p><a href="#"> 常見問題 </a></p>
+                    <p><a href="#"> 客服中心 </a></p>
+                    <p><a href="#"> 意見評論 </a></p>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h3>會員管理</h3>
+                    <p><a href="#"> 個人首頁 </a></p>
+                    <p><a href="#"> 帳戶管理 </a></p>
+                    <p><a href="#"> 忘記密碼 </a></p>
+                    <p><a href="#"> 我的食譜 </a></p>
+                    <p><a href="#"> 收藏食譜 </a></p>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h3>聯繫信息</h3>
+                    <p><a href="https://goo.gl/maps/KyNqGvNzKZCv18H96">111台北市士林區華岡路55號</a></p>
+                    <p class="lead"><a href="#">(02)2861-0511 轉35906</a></p>
+                    <p><a href="#"> PCCUIM4@gmail.com</a></p>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h3>訂閱</h3>
+                    <div class="subscribe_form">
+                        <form class="subscribe_form">
+                            <input name="EMAIL" id="subs-email" class="form_input" placeholder="Email Address..." type="email">
+                            <button type="submit" class="submit">訂閱</button>
+                            <div class="clearfix"></div>
+                        </form>
+                    </div>
+                    <ul class="list-inline f-social">
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p class="company-name">
+                            文化大學 資管系 專題製作
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    <!-- End Footer -->
+    <!-- ALL JS FILES -->
+    <script src="~/Scripts/jquery-3.2.1.min.js"></script>
+    <script src="~/Scripts/popper.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <!-- ALL PLUGINS -->
+    <script src="~/Scripts/jquery.superslides.min.js"></script>
+    <script src="~/Scripts/images-loded.min.js"></script>
+    <script src="~/Scripts/isotope.min.js"></script>
+    <script src="~/Scripts/baguetteBox.min.js"></script>
+    <script src="~/Scripts/form-validator.min.js"></script>
+    <script src="~/Scripts/contact-form-script.js"></script>
+    <script src="~/Scripts/custom.js"></script>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,46 @@
+﻿@model TeachImageWebsite.Models.Steps
+
+@{
+    ViewBag.Title = "CreateSteps";
+}
+@using (Html.BeginForm("CreateSteps", "Recipe"))
+{
+    @Html.AntiForgeryToken()
+    <h2>CreateSteps</h2>
+    <br /><br /><br /><br />
+    <div style="padding:14px 60px">
+    <div class="form-group">
+        @Html.LabelFor(model => model.sContent, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.EditorFor(model => model.sContent, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.sContent, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.sContent, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.EditorFor(model => model.sContent, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.sContent, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.sContent, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.EditorFor(model => model.sContent, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.sContent, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="session control-label col-md-2">
+        <input type="text" name="aId" value="@Session["recipe_id"]" readonly="readonly" />
+        @Html.ValidationMessageFor(model => model.aId, "", new { @class = "text-danger" })
+    </div>
+        <br />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="新增" class="btn" />
+        </div>
+    </div>
+    </div>
+}
+

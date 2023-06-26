@@ -1,0 +1,13 @@
+﻿@model TeachImageWebsite.Models.ViewModel.RecipeViewModel
+@{
+    Layout = "~/Views/Shared/_LayoutMember.cshtml";
+}}
+@{
+    Response.Write("Session的所有值:<br />");
+    foreach (string obj in Session.Contents)
+    {
+        Response.Write(obj.ToString() + ":" + Session[obj] + "<br />");
+    }
+}
+
+<h2>計畫排定</h2>

@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projectsqlModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="aRecipe">
+    <Key>
+      <PropertyRef Name="aId" />
+    </Key>
+    <Property Name="aId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="aName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="classId" Type="int" Nullable="false" />
+    <Property Name="aIntroduce" Type="nvarchar" MaxLength="500" />
+    <Property Name="aImg" Type="nvarchar" MaxLength="50" />
+    <Property Name="aQuantity" Type="int" Nullable="false" />
+    <Property Name="aTime" Type="int" Nullable="false" />
+    <Property Name="cId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--產生期間發現錯誤:
+警告 6002: 資料表/檢視 'projectsql.dbo.Blacklist' 未定義主索引鍵。已推斷此索引鍵，並將定義建立成唯讀的資料表/檢視。-->
+  <EntityType Name="Blacklist">
+    <Key>
+      <PropertyRef Name="bId" />
+      <PropertyRef Name="cId" />
+    </Key>
+    <Property Name="bId" Type="int" Nullable="false" />
+    <Property Name="cId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="cMember">
+    <Key>
+      <PropertyRef Name="cId" />
+    </Key>
+    <Property Name="cId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="cEmail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="cPwd" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="cPhoto" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="CollectionRecipe">
+    <Key>
+      <PropertyRef Name="colId" />
+    </Key>
+    <Property Name="colId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="aId" Type="int" Nullable="false" />
+    <Property Name="cId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DraftClass">
+    <Key>
+      <PropertyRef Name="abclassId" />
+    </Key>
+    <Property Name="abclassId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="abclassName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="abclassNameD" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DraftIngredient">
+    <Key>
+      <PropertyRef Name="abiId" />
+    </Key>
+    <Property Name="abiId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="abiName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="abiNum" Type="int" />
+    <Property Name="abiUnit" Type="nvarchar" MaxLength="50" />
+    <Property Name="abId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DraftRecipes">
+    <Key>
+      <PropertyRef Name="abId" />
+    </Key>
+    <Property Name="abId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="abName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="abclassId" Type="int" />
+    <Property Name="abIntroduce" Type="nvarchar" MaxLength="500" />
+    <Property Name="abImg" Type="nvarchar" MaxLength="50" />
+    <Property Name="abQuantity" Type="int" />
+    <Property Name="abTime" Type="int" />
+    <Property Name="cId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DraftSteps">
+    <Key>
+      <PropertyRef Name="absId" />
+    </Key>
+    <Property Name="absId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="absContent" Type="nvarchar" MaxLength="250" />
+    <Property Name="abId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--產生期間發現錯誤:
+警告 6002: 資料表/檢視 'projectsql.dbo.FollowMember' 未定義主索引鍵。已推斷此索引鍵，並將定義建立成唯讀的資料表/檢視。-->
+  <EntityType Name="FollowMember">
+    <Key>
+      <PropertyRef Name="followId" />
+      <PropertyRef Name="cId" />
+      <PropertyRef Name="follower" />
+    </Key>
+    <Property Name="followId" Type="int" Nullable="false" />
+    <Property Name="cId" Type="int" Nullable="false" />
+    <Property Name="follower" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GoodRecipe">
+    <Key>
+      <PropertyRef Name="gId" />
+    </Key>
+    <Property Name="gId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="aId" Type="int" Nullable="false" />
+    <Property Name="cId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ingredient">
+    <Key>
+      <PropertyRef Name="iId" />
+    </Key>
+    <Property Name="iId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="iName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="iNum" Type="float" Nullable="false" />
+    <Property Name="iUnit" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="aId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--產生期間發現錯誤:
+警告 6013: 資料表/檢視 'projectsql.dbo.Member_relation' 未定義主索引鍵，也無法推斷有效的主索引鍵。此資料表/檢視已被排除。如果要使用此實體，您必須檢閱您的結構描述，加入正確的索引鍵，並將它取消註解。
+        <EntityType Name="Member_relation">
+          <Property Name="follower_id" Type="int" />
+          <Property Name="followee_id" Type="int" />
+        </EntityType>-->
+  <EntityType Name="MessageRecipe">
+    <Key>
+      <PropertyRef Name="mId" />
+    </Key>
+    <Property Name="mId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="mCon" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="aId" Type="int" Nullable="false" />
+    <Property Name="cId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--產生期間發現錯誤:
+警告 6002: 資料表/檢視 'projectsql.dbo.Planning' 未定義主索引鍵。已推斷此索引鍵，並將定義建立成唯讀的資料表/檢視。-->
+  <EntityType Name="Planning">
+    <Key>
+      <PropertyRef Name="pId" />
+      <PropertyRef Name="aName" />
+      <PropertyRef Name="pQuantity" />
+      <PropertyRef Name="pTimeA" />
+      <PropertyRef Name="pTimeB" />
+      <PropertyRef Name="cId" />
+      <PropertyRef Name="aId" />
+    </Key>
+    <Property Name="pId" Type="int" Nullable="false" />
+    <Property Name="aName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="pQuantity" Type="int" Nullable="false" />
+    <Property Name="pTimeA" Type="date" Nullable="false" />
+    <Property Name="pTimeB" Type="date" Nullable="false" />
+    <Property Name="cId" Type="int" Nullable="false" />
+    <Property Name="aId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--產生期間發現錯誤:
+警告 6002: 資料表/檢視 'projectsql.dbo.PlanningIngredient' 未定義主索引鍵。已推斷此索引鍵，並將定義建立成唯讀的資料表/檢視。-->
+  <EntityType Name="PlanningIngredient">
+    <Key>
+      <PropertyRef Name="piId" />
+      <PropertyRef Name="piName" />
+      <PropertyRef Name="piNum" />
+      <PropertyRef Name="piUnit" />
+      <PropertyRef Name="pId" />
+    </Key>
+    <Property Name="piId" Type="int" Nullable="false" />
+    <Property Name="piName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="piNum" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="piUnit" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="pId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RClass">
+    <Key>
+      <PropertyRef Name="classId" />
+    </Key>
+    <Property Name="classId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="className" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="classNameD" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--產生期間發現錯誤:
+警告 6002: 資料表/檢視 'projectsql.dbo.ReportMessage' 未定義主索引鍵。已推斷此索引鍵，並將定義建立成唯讀的資料表/檢視。-->
+  <EntityType Name="ReportMessage">
+    <Key>
+      <PropertyRef Name="rmId" />
+      <PropertyRef Name="rmName" />
+      <PropertyRef Name="cId" />
+      <PropertyRef Name="rmcIdB" />
+      <PropertyRef Name="mId" />
+    </Key>
+    <Property Name="rmId" Type="int" Nullable="false" />
+    <Property Name="rmName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="cId" Type="int" Nullable="false" />
+    <Property Name="rmcIdB" Type="int" Nullable="false" />
+    <Property Name="mId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--產生期間發現錯誤:
+警告 6002: 資料表/檢視 'projectsql.dbo.ReportRecipe' 未定義主索引鍵。已推斷此索引鍵，並將定義建立成唯讀的資料表/檢視。-->
+  <EntityType Name="ReportRecipe">
+    <Key>
+      <PropertyRef Name="rrId" />
+      <PropertyRef Name="rrName" />
+      <PropertyRef Name="cId" />
+      <PropertyRef Name="rrcIdB" />
+      <PropertyRef Name="aId" />
+    </Key>
+    <Property Name="rrId" Type="int" Nullable="false" />
+    <Property Name="rrName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="cId" Type="int" Nullable="false" />
+    <Property Name="rrcIdB" Type="int" Nullable="false" />
+    <Property Name="aId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Steps">
+    <Key>
+      <PropertyRef Name="sId" />
+    </Key>
+    <Property Name="sId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sContent" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="aId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityContainer Name="projectsqlModelStoreContainer">
+    <EntitySet Name="aRecipe" EntityType="Self.aRecipe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="cMember" EntityType="Self.cMember" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CollectionRecipe" EntityType="Self.CollectionRecipe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DraftClass" EntityType="Self.DraftClass" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DraftIngredient" EntityType="Self.DraftIngredient" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DraftRecipes" EntityType="Self.DraftRecipes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DraftSteps" EntityType="Self.DraftSteps" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GoodRecipe" EntityType="Self.GoodRecipe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ingredient" EntityType="Self.Ingredient" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MessageRecipe" EntityType="Self.MessageRecipe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RClass" EntityType="Self.RClass" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Steps" EntityType="Self.Steps" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Blacklist" EntityType="Self.Blacklist" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Blacklist].[bId] AS [bId], 
+    [Blacklist].[cId] AS [cId]
+    FROM [dbo].[Blacklist] AS [Blacklist]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="FollowMember" EntityType="Self.FollowMember" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [FollowMember].[followId] AS [followId], 
+    [FollowMember].[cId] AS [cId], 
+    [FollowMember].[follower] AS [follower]
+    FROM [dbo].[FollowMember] AS [FollowMember]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Planning" EntityType="Self.Planning" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Planning].[pId] AS [pId], 
+    [Planning].[aName] AS [aName], 
+    [Planning].[pQuantity] AS [pQuantity], 
+    [Planning].[pTimeA] AS [pTimeA], 
+    [Planning].[pTimeB] AS [pTimeB], 
+    [Planning].[cId] AS [cId], 
+    [Planning].[aId] AS [aId]
+    FROM [dbo].[Planning] AS [Planning]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="PlanningIngredient" EntityType="Self.PlanningIngredient" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [PlanningIngredient].[piId] AS [piId], 
+    [PlanningIngredient].[piName] AS [piName], 
+    [PlanningIngredient].[piNum] AS [piNum], 
+    [PlanningIngredient].[piUnit] AS [piUnit], 
+    [PlanningIngredient].[pId] AS [pId]
+    FROM [dbo].[PlanningIngredient] AS [PlanningIngredient]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="ReportMessage" EntityType="Self.ReportMessage" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ReportMessage].[rmId] AS [rmId], 
+    [ReportMessage].[rmName] AS [rmName], 
+    [ReportMessage].[cId] AS [cId], 
+    [ReportMessage].[rmcIdB] AS [rmcIdB], 
+    [ReportMessage].[mId] AS [mId]
+    FROM [dbo].[ReportMessage] AS [ReportMessage]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="ReportRecipe" EntityType="Self.ReportRecipe" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ReportRecipe].[rrId] AS [rrId], 
+    [ReportRecipe].[rrName] AS [rrName], 
+    [ReportRecipe].[cId] AS [cId], 
+    [ReportRecipe].[rrcIdB] AS [rrcIdB], 
+    [ReportRecipe].[aId] AS [aId]
+    FROM [dbo].[ReportRecipe] AS [ReportRecipe]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

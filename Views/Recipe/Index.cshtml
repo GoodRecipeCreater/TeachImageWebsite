@@ -1,0 +1,29 @@
+﻿@model TeachImageWebsite.Models.ViewModel.RecipeViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<div class="col-xs-8">
+    <table class="table">
+        <tr>
+            <th>食材名稱</th>
+            <th>食材數量</th>
+            <th>單位</th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model.ingredients)
+        {
+            <tr>
+                <td>@item.iName</td>
+                <td>@item.iNum</td>
+                <td>@item.iUnit</td>
+               
+            </tr>
+        }
+
+    </table>
+</div>
+

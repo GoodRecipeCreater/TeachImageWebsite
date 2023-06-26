@@ -1,0 +1,80 @@
+﻿@model IEnumerable<TeachImageWebsite.Models.aRecipe>
+
+@{
+    ViewBag.Title = "RecipeList";
+}
+@{
+    Layout = "~/Views/Shared/_LayoutMember.cshtml";
+}}
+@*@{
+    Response.Write("Session的所有值:<br />");
+    foreach (string obj in Session.Contents)
+    {
+        Response.Write(obj.ToString() + ":" + Session[obj] + "<br />");
+    }
+}*@
+
+<h2>RecipeList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.aName)
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.classId)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.aIntroduce)
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.aImg)
+            </th>*@
+        @*<th>
+                @Html.DisplayNameFor(model => model.aQuantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.aTime)
+            </th>*@
+        @*<th>
+                @Html.DisplayNameFor(model => model.cId)
+            </th>*@
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.aName)
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.classId)
+                </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.aIntroduce)
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.aImg)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.aQuantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.aTime)
+                </td>*@
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.cId)
+                </td>*@
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.aId }) |
+                @Html.ActionLink("Details", "Recipe" ,new { id = item.aId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.aId })
+            </td>
+        </tr>
+    }
+
+</table>

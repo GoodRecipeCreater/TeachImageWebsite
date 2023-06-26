@@ -1,0 +1,919 @@
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\TeachImageWebsite.dll.config
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\TeachImageWebsite.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\TeachImageWebsite.pdb
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\csc.exe
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\csi.exe
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\WebGrease.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\obj\Debug\TeachImageWebsite.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\obj\Debug\TeachImageWebsite.pdb
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\EntityFramework.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\EntityFramework.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\專題\Teach\TeachImageWebsite\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\TeachImageWebsite.dll.config
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\TeachImageWebsite.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\TeachImageWebsite.pdb
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\csc.exe
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\csc.exe.config
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\csc.rsp
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\csi.exe
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\csi.exe.config
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\csi.rsp
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Console.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Net.Http.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\vbc.exe
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\vbc.exe.config
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\vbc.rsp
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\Antlr3.Runtime.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\EntityFramework.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\Newtonsoft.Json.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.Helpers.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.Mvc.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.Optimization.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.Razor.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.WebPages.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\WebGrease.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\EntityFramework.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.Helpers.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.Mvc.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.Optimization.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.Razor.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.WebPages.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\Newtonsoft.Json.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\obj\Debug\TeachImageWebsite.dll
+C:\Users\hanni\OneDrive\桌面\TeachImageWebsite 5.04\TeachImageWebsite\obj\Debug\TeachImageWebsite.pdb
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\TeachImageWebsite.dll.config
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\TeachImageWebsite.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\TeachImageWebsite.pdb
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\csc.exe
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\csc.exe.config
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\csc.rsp
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\csi.exe
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\csi.exe.config
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\csi.rsp
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Console.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Net.Http.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\vbc.exe
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\vbc.exe.config
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\vbc.rsp
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\EntityFramework.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.Helpers.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.Mvc.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.Optimization.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.Razor.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.WebPages.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\WebGrease.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\EntityFramework.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.Helpers.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.Mvc.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.Optimization.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.Razor.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.WebPages.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.dll
+C:\Users\Lora\OneDrive\桌面\test\0511\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.pdb
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\TeachImageWebsite.dll.config
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\TeachImageWebsite.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\TeachImageWebsite.pdb
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\csc.exe
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\csc.exe.config
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\csc.rsp
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\csi.exe
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\csi.exe.config
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\csi.rsp
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Console.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Net.Http.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\vbc.exe
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\vbc.exe.config
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\vbc.rsp
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\Antlr3.Runtime.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\EntityFramework.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\Newtonsoft.Json.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.Helpers.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.Mvc.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.Optimization.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.Razor.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.WebPages.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\WebGrease.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\EntityFramework.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.Helpers.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.Mvc.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.Optimization.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.Razor.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.WebPages.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\Newtonsoft.Json.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.dll
+C:\Users\hanni\OneDrive\文件\新\新\TeachImageWebsite\obj\Debug\TeachImageWebsite.pdb
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\obj\Debug\TeachImageWebsite.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\obj\Debug\TeachImageWebsite.pdb
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\TeachImageWebsite.dll.config
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\TeachImageWebsite.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\TeachImageWebsite.pdb
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\csc.exe
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\csc.exe.config
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\csc.rsp
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\csi.exe
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\csi.exe.config
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\csi.rsp
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Console.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Net.Http.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\vbc.exe
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\vbc.exe.config
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\vbc.rsp
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\Antlr3.Runtime.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\EntityFramework.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\Newtonsoft.Json.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.Helpers.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.Mvc.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.Optimization.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.Razor.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.WebPages.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\WebGrease.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\EntityFramework.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.Helpers.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.Mvc.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.Optimization.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.Razor.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.WebPages.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\Newtonsoft.Json.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\hanni\OneDrive\文件\專題\程式\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\TeachImageWebsite.dll.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\TeachImageWebsite.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\TeachImageWebsite.pdb
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\csc.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\csi.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\EntityFramework.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.WebPages.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\WebGrease.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\EntityFramework.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.WebPages.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\obj\Debug\TeachImageWebsite.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite\obj\Debug\TeachImageWebsite.pdb
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\TeachImageWebsite.dll.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\TeachImageWebsite.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\TeachImageWebsite.pdb
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\csc.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\csi.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\EntityFramework.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.WebPages.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\WebGrease.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\EntityFramework.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.WebPages.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\obj\Debug\TeachImageWebsite.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 測試\obj\Debug\TeachImageWebsite.pdb
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\TeachImageWebsite.dll.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\TeachImageWebsite.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\TeachImageWebsite.pdb
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\csc.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\csi.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\EntityFramework.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\WebGrease.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\EntityFramework.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.dll
+C:\Users\User\Downloads\TeachImageWebsite0601\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.pdb
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\TeachImageWebsite.dll.config
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\TeachImageWebsite.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\TeachImageWebsite.pdb
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\csc.exe
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\csc.exe.config
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\csc.rsp
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\csi.exe
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\csi.exe.config
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\csi.rsp
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.AppContext.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Console.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.IO.Compression.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Net.Http.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.ValueTuple.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\vbc.exe
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\vbc.exe.config
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\vbc.rsp
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\VBCSCompiler.exe
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\Antlr3.Runtime.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\EntityFramework.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\EntityFramework.SqlServer.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\Newtonsoft.Json.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.Helpers.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.Mvc.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.Optimization.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.Razor.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.Razor.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\WebGrease.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\EntityFramework.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\EntityFramework.SqlServer.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.Helpers.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.Mvc.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.Optimization.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.Razor.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\System.Web.WebPages.Razor.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\Newtonsoft.Json.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\Antlr3.Runtime.pdb
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.dll
+C:\Users\spark\OneDrive\桌面\專題\TeachImageWebsite - 0614 mu\TeachImageWebsite - 0614 mu\obj\Debug\TeachImageWebsite.pdb
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\TeachImageWebsite.dll.config
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\TeachImageWebsite.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\TeachImageWebsite.pdb
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\csc.exe
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\csi.exe
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\EntityFramework.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.WebPages.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\WebGrease.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\EntityFramework.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.WebPages.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\obj\Debug\TeachImageWebsite.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\obj\Debug\TeachImageWebsite.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\obj\Debug\TeachImageWebsite.csproj.CopyComplete
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\obj\Debug\TeachImageWebsite.dll
+C:\Users\User\Downloads\TeachImageWebsite - 0621\TeachImageWebsite - 0621\obj\Debug\TeachImageWebsite.pdb
